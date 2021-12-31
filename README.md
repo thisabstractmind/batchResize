@@ -1,3 +1,4 @@
+<pre>
 # batchResize
 python script to resize images into different sizes for websites, linux CLI
 
@@ -14,3 +15,4 @@ large - 75% of original image size
 all - performs all resizing operations 
 
 all images will be prepended with their respective resize. i.e. 001.jpg -> small_001.jpg
+</pre>
