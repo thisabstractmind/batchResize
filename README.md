@@ -15,4 +15,16 @@ large - 75% of original image size
 all - performs all resizing operations 
 
 all images will be prepended with their respective resize. i.e. 001.jpg -> small_001.jpg
+
+#imgConvert webP
+python script to convert images into webP format for websites, linux CLI
+
+usage: python3 imgConvertWeb.py infolder outfolder
+
+Folders must already exist and will no be created. Result will be that all images taken from the inFolder will be converted and placed into the outFolder.
+
+
+
+
+
 </pre>
